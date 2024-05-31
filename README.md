@@ -1,4 +1,11 @@
-## Welcome 👋
+## ✱ Welcome to my profile ✱
+
+🐍・Major experience with Python and C;
+☕・Few knowledge about Java and Web Development (HTML, CSS, JavaScript);
+💡・Interest in learning C++ and C#;
+👾・Trying to learn GML for fun;
+
+Any knowledge is welcome! :)
 
 <!--
 **pp1MB/pp1MB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
