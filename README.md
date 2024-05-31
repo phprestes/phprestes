@@ -1,9 +1,9 @@
 ## ✱ Welcome to my profile ✱
 
-  🐍・Major experience with Python and C;
-  ☕・Few knowledge about Java and Web Development (HTML, CSS, JavaScript);
-  💡・Interest in learning C++ and C#;
-  👾・Trying to learn GML for fun;
+  - 🐍・Major experience with Python and C;
+  - ☕・Few knowledge about Java and Web Development (HTML, CSS, JavaScript);
+  - 💡・Interest in learning C++ and C#;
+  - 👾・Trying to learn GML for fun;
 
 Any knowledge is welcome! :)
 
