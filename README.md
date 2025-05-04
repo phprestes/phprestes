@@ -6,10 +6,10 @@
 <p> 🌎 ・From Belém, Pará, Brazil (COP30 City) </p>
 
 <div align="left">
-  <a href="pedrohsprestes@gmail.com" target="_blank">
+  <a href="mailto:pedrohsprestes@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="t.me/pedroprestes" target="_blank">
+  <a href="https://www.t.me/pedroprestes" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
   </a>
   <a href="https://www.linkedin.com/in/pedro-henrique-de-sousa-prestes-67ab64302/" target="_blank">
