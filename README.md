@@ -23,7 +23,7 @@
 
 <h2 align="left">🤖・Languages ​​and Technologies</h2>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,fortran,bash,haskell,html,css,js,java" height="24" alt="Tecnologias" />
+  <img src="https://skillicons.dev/icons?i=python,c,linux,bash,latex,fortran,haskell,sklearn,pytorch,html,css,js,java,ruby" height="24" alt="Tecnologias" />
 </div>
 
 ###
