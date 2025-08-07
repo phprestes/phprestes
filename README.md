@@ -3,7 +3,7 @@
 <p> 📚 ・Computer Science Student @ University of São Paulo </p>
 <p> 🔬 ・Researching Deep Learning for Graph Data </p>
 <p> 🔐 ・Interest in learning cybersecurity </p>
-<p> 🌎 ・From Belém, Pará, Brazil (COP30 City) </p>
+<p> 🌎 ・From Belém, Pará, Brazil </p>
 
 <div align="left">
   <a href="mailto:pedrohsprestes@gmail.com" target="_blank">
@@ -23,7 +23,7 @@
 
 <h2 align="left">🤖・Languages ​​and Technologies</h2>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,linux,bash,latex,fortran,haskell,sklearn,pytorch,html,css,js,java,ruby" height="24" alt="Tecnologias" />
+  <img src="https://skillicons.dev/icons?i=python,c,linux,bash,latex,fortran,haskell,sklearn,pytorch,html,css,js,java,ruby,npm,react,nodejs,tailwind" alt="Tecnologias" />
 </div>
 
 ###
