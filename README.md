@@ -1,7 +1,7 @@
 <h2 align="left">👨🏻‍💻・Hi! I'm Pedro Prestes</h2>
 
 <p> 📚 ・Computer Science Student @ University of São Paulo </p>
-<p> 🔬 ・Researching Deep Learning for Graph Data </p>
+<p> 🔬 ・Researching Relational Deep Learning applied to healthcare </p>
 <p> 🔐 ・Interest in learning cybersecurity </p>
 <p> 🌎 ・From Belém, Pará, Brazil </p>
 
