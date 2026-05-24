@@ -21,7 +21,7 @@
 ---
 
 ### <p align="center">
-  <img src="os.gif" width="65%" alt="GIF">
+  <img src="os.gif" width="100%" alt="GIF">
 </p>
 
 ---
@@ -63,3 +63,9 @@ My main core focus is on **Data, Machine Learning, and Generative AI**. I aim to
 </p>
 
 ---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/phprestes/phprestes/output/puzzle-bobble-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/phprestes/phprestes/output/puzzle-bobble-contribution-graph.svg">
+  <img alt="puzzle-bobble contribution graph" src="https://raw.githubusercontent.com/phprestes/phprestes/output/puzzle-bobble-contribution-graph.svg">
+</picture>
