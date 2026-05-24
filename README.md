@@ -21,7 +21,7 @@
 ---
 
 ### <p align="center">
-  <img src="https://i.pinimg.com/originals/de/4d/4a/de4d4a1a24cdb30bb39c4ba689922aec.gif" width="65%" alt="GIF">
+  <img src="os.gif" width="65%" alt="GIF">
 </p>
 
 ---
