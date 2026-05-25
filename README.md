@@ -1,9 +1,6 @@
 # Hi there, I'm Pedro Prestes! 👋
 
 <p align="left">
-  <a href="https://linkedin.com/in/phprestes" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
   <a href="https://kaggle.com/phprestes" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle">
   </a>
