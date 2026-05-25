@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle">
   </a>
   <a href="https://leetcode.com/phprestes" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode">
+    <img src="https://img.shields.io/badge/LeetCode-A57B00?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode">
   </a>
   <a href="https://codeforces.com/profile/phprestes" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-B81D24?style=flat-square&logo=codeforces&logoColor=white" alt="Codeforces">
